@@ -4,3 +4,6 @@
 [submodule "src/TBD_Pedestrian_Simulation"]
 	path = src/TBD_Pedestrian_Simulation
 	url = https://github.com/clairec03/TBD_Pedestrian_Simulation.git
+[submodule "src/Python-RVO2"]
+	path = src/Python-RVO2
+	url = https://github.com/sybrenstuvel/Python-RVO2.git
