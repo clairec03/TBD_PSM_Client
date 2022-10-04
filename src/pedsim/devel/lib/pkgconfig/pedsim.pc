@@ -1,0 +1,8 @@
+prefix=/home/clairechen/pedsim_workspace/devel
+
+Name: pedsim
+Description: Description of pedsim
+Version: 0.2.0
+Cflags: -I/home/clairechen/pedsim_workspace/src/pedsim_ros/3rdparty/libpedsim/include/
+Libs: -L${prefix}/lib -lpedsim
+Requires: roscpp
