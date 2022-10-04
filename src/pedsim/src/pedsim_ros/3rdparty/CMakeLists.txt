@@ -1,2 +1,0 @@
-add_subdirectory(libpedsim)
-add_subdirectory(libpedsim_original)

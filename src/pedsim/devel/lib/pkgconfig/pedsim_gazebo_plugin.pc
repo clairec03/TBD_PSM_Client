@@ -1,8 +1,0 @@
-prefix=/home/clairechen/pedsim_workspace/devel
-
-Name: pedsim_gazebo_plugin
-Description: Description of pedsim_gazebo_plugin
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: gazebo_ros roscpp geometry_msgs pedsim_msgs

@@ -1,8 +1,0 @@
-prefix=/home/clairechen/pedsim_workspace/devel
-
-Name: pedsim_srvs
-Description: Description of pedsim_srvs
-Version: 0.0.1
-Cflags: -I/home/clairechen/pedsim_workspace/devel/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime pedsim_msgs std_msgs

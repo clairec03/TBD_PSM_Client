@@ -1,3 +1,6 @@
 [submodule "pedsim"]
 	path = pedsim
 	url = https://github.com/clairec03/TBD_Pedestrian_Simulation.git
+[submodule "src/TBD_Pedestrian_Simulation"]
+	path = src/TBD_Pedestrian_Simulation
+	url = https://github.com/clairec03/TBD_Pedestrian_Simulation.git

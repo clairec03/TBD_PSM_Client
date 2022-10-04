@@ -1,8 +1,0 @@
-prefix=/home/clairechen/pedsim_workspace/devel
-
-Name: libpedsim_original
-Description: Description of libpedsim_original
-Version: 0.2.0
-Cflags: -I/home/clairechen/pedsim_workspace/src/pedsim_ros/3rdparty/libpedsim_original/include/
-Libs: -L${prefix}/lib -llibpedsim_original
-Requires: roscpp
